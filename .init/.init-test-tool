@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-task-organizer-218335-218349/todo_backend"
+}
